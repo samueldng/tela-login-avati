@@ -22,7 +22,7 @@ Antes de rodar o projeto, você precisa ter o **Node.js** e o **npm** instalados
 
 2. Navegue até a pasta do projeto:
 
-cd login-app-react
+cd tela-login-avati
 
 3. Instale as dependências do projeto:
 
